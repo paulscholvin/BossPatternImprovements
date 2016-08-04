@@ -1,0 +1,7 @@
+c:\users\paul.scholvin\documents\visual studio 2015\Projects\PatternExample\Application.Commands\bin\Debug\Application.Commands.dll
+c:\users\paul.scholvin\documents\visual studio 2015\Projects\PatternExample\Application.Commands\bin\Debug\Application.Commands.pdb
+c:\users\paul.scholvin\documents\visual studio 2015\Projects\PatternExample\Application.Commands\bin\Debug\Application.Interfaces.dll
+c:\users\paul.scholvin\documents\visual studio 2015\Projects\PatternExample\Application.Commands\bin\Debug\Application.Interfaces.pdb
+c:\users\paul.scholvin\documents\visual studio 2015\Projects\PatternExample\Application.Commands\obj\Debug\Application.Commands.csprojResolveAssemblyReference.cache
+c:\users\paul.scholvin\documents\visual studio 2015\Projects\PatternExample\Application.Commands\obj\Debug\Application.Commands.dll
+c:\users\paul.scholvin\documents\visual studio 2015\Projects\PatternExample\Application.Commands\obj\Debug\Application.Commands.pdb

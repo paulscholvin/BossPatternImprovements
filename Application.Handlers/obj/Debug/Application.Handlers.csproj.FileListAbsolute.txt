@@ -1,0 +1,15 @@
+c:\users\paul.scholvin\documents\visual studio 2015\Projects\PatternExample\Application.Handlers\bin\Debug\Application.Handlers.dll
+c:\users\paul.scholvin\documents\visual studio 2015\Projects\PatternExample\Application.Handlers\bin\Debug\Application.Handlers.pdb
+c:\users\paul.scholvin\documents\visual studio 2015\Projects\PatternExample\Application.Handlers\bin\Debug\Application.Commands.dll
+c:\users\paul.scholvin\documents\visual studio 2015\Projects\PatternExample\Application.Handlers\bin\Debug\Application.Interfaces.dll
+c:\users\paul.scholvin\documents\visual studio 2015\Projects\PatternExample\Application.Handlers\bin\Debug\DomainModel.Entities.dll
+c:\users\paul.scholvin\documents\visual studio 2015\Projects\PatternExample\Application.Handlers\bin\Debug\DomainModel.Interfaces.dll
+c:\users\paul.scholvin\documents\visual studio 2015\Projects\PatternExample\Application.Handlers\bin\Debug\Application.Commands.pdb
+c:\users\paul.scholvin\documents\visual studio 2015\Projects\PatternExample\Application.Handlers\bin\Debug\Application.Interfaces.pdb
+c:\users\paul.scholvin\documents\visual studio 2015\Projects\PatternExample\Application.Handlers\bin\Debug\DomainModel.Entities.pdb
+c:\users\paul.scholvin\documents\visual studio 2015\Projects\PatternExample\Application.Handlers\bin\Debug\DomainModel.Interfaces.pdb
+c:\users\paul.scholvin\documents\visual studio 2015\Projects\PatternExample\Application.Handlers\obj\Debug\Application.Handlers.csprojResolveAssemblyReference.cache
+c:\users\paul.scholvin\documents\visual studio 2015\Projects\PatternExample\Application.Handlers\obj\Debug\Application.Handlers.dll
+c:\users\paul.scholvin\documents\visual studio 2015\Projects\PatternExample\Application.Handlers\obj\Debug\Application.Handlers.pdb
+c:\users\paul.scholvin\documents\visual studio 2015\Projects\PatternExample\Application.Handlers\bin\Debug\Application.Events.dll
+c:\users\paul.scholvin\documents\visual studio 2015\Projects\PatternExample\Application.Handlers\bin\Debug\Application.Events.pdb

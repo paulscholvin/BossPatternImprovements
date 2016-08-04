@@ -1,0 +1,9 @@
+c:\users\paul.scholvin\documents\visual studio 2015\Projects\PatternExample\Domain.Services\bin\Debug\Domain.Services.dll
+c:\users\paul.scholvin\documents\visual studio 2015\Projects\PatternExample\Domain.Services\bin\Debug\Domain.Services.pdb
+c:\users\paul.scholvin\documents\visual studio 2015\Projects\PatternExample\Domain.Services\bin\Debug\DomainModel.Entities.dll
+c:\users\paul.scholvin\documents\visual studio 2015\Projects\PatternExample\Domain.Services\bin\Debug\DomainModel.Interfaces.dll
+c:\users\paul.scholvin\documents\visual studio 2015\Projects\PatternExample\Domain.Services\bin\Debug\DomainModel.Entities.pdb
+c:\users\paul.scholvin\documents\visual studio 2015\Projects\PatternExample\Domain.Services\bin\Debug\DomainModel.Interfaces.pdb
+c:\users\paul.scholvin\documents\visual studio 2015\Projects\PatternExample\Domain.Services\obj\Debug\Domain.Services.csprojResolveAssemblyReference.cache
+c:\users\paul.scholvin\documents\visual studio 2015\Projects\PatternExample\Domain.Services\obj\Debug\Domain.Services.dll
+c:\users\paul.scholvin\documents\visual studio 2015\Projects\PatternExample\Domain.Services\obj\Debug\Domain.Services.pdb

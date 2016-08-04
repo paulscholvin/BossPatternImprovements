@@ -1,0 +1,7 @@
+c:\users\paul.scholvin\documents\visual studio 2015\Projects\PatternExample\Application.Events\bin\Debug\Application.Events.dll
+c:\users\paul.scholvin\documents\visual studio 2015\Projects\PatternExample\Application.Events\bin\Debug\Application.Events.pdb
+c:\users\paul.scholvin\documents\visual studio 2015\Projects\PatternExample\Application.Events\bin\Debug\Application.Interfaces.dll
+c:\users\paul.scholvin\documents\visual studio 2015\Projects\PatternExample\Application.Events\bin\Debug\Application.Interfaces.pdb
+c:\users\paul.scholvin\documents\visual studio 2015\Projects\PatternExample\Application.Events\obj\Debug\Application.Events.csprojResolveAssemblyReference.cache
+c:\users\paul.scholvin\documents\visual studio 2015\Projects\PatternExample\Application.Events\obj\Debug\Application.Events.dll
+c:\users\paul.scholvin\documents\visual studio 2015\Projects\PatternExample\Application.Events\obj\Debug\Application.Events.pdb

@@ -1,0 +1,5 @@
+c:\users\paul.scholvin\documents\visual studio 2015\Projects\PatternExample\DomainModel.Entities\bin\Debug\DomainModel.Entities.dll
+c:\users\paul.scholvin\documents\visual studio 2015\Projects\PatternExample\DomainModel.Entities\bin\Debug\DomainModel.Entities.pdb
+c:\users\paul.scholvin\documents\visual studio 2015\Projects\PatternExample\DomainModel.Entities\obj\Debug\Domain.Entities.csprojResolveAssemblyReference.cache
+c:\users\paul.scholvin\documents\visual studio 2015\Projects\PatternExample\DomainModel.Entities\obj\Debug\DomainModel.Entities.dll
+c:\users\paul.scholvin\documents\visual studio 2015\Projects\PatternExample\DomainModel.Entities\obj\Debug\DomainModel.Entities.pdb

@@ -1,0 +1,7 @@
+c:\users\paul.scholvin\documents\visual studio 2015\Projects\PatternExample\DomainModel.Interfaces\bin\Debug\DomainModel.Interfaces.dll
+c:\users\paul.scholvin\documents\visual studio 2015\Projects\PatternExample\DomainModel.Interfaces\bin\Debug\DomainModel.Interfaces.pdb
+c:\users\paul.scholvin\documents\visual studio 2015\Projects\PatternExample\DomainModel.Interfaces\bin\Debug\DomainModel.Entities.dll
+c:\users\paul.scholvin\documents\visual studio 2015\Projects\PatternExample\DomainModel.Interfaces\bin\Debug\DomainModel.Entities.pdb
+c:\users\paul.scholvin\documents\visual studio 2015\Projects\PatternExample\DomainModel.Interfaces\obj\Debug\Domain.Interfaces.csprojResolveAssemblyReference.cache
+c:\users\paul.scholvin\documents\visual studio 2015\Projects\PatternExample\DomainModel.Interfaces\obj\Debug\DomainModel.Interfaces.dll
+c:\users\paul.scholvin\documents\visual studio 2015\Projects\PatternExample\DomainModel.Interfaces\obj\Debug\DomainModel.Interfaces.pdb
